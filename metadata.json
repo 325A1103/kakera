@@ -1,0 +1,6 @@
+{
+  "name": "ネオンの欠片 - Holographic Music Experience",
+  "description": "ダークブルーの深淵に浮かぶホログラムと、ネオンの欠片が織りなすサイバー・エレクトロ音楽体験サイト。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
